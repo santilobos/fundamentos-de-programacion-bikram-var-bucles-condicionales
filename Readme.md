@@ -15,9 +15,9 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 ### Variables ###
 
-- [x ]  1.- Crear variable tipo **let** de nombre **variableSinValor** declarada **sin valor**
+- [ ]  1.- Crear variable tipo **let** de nombre **variableSinValor** declarada **sin valor**
 
-- [x ] 2.- Crear **2 variables** tipo **let** de nombres **booleano1** y **booleano2** con valores **booleanos**
+- [ ] 2.- Crear **2 variables** tipo **let** de nombres **booleano1** y **booleano2** con valores **booleanos**
 
 - [ ] 3.- Crear variable tipo **const** de nombre **PI** declarada con valor **3.14**
 
